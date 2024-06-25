@@ -46,4 +46,4 @@ from .websocket_api import WebSocketClient
 
 # pyupbit PyPi (setup.py) __version__ = "0.2.34"
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"

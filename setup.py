@@ -53,7 +53,7 @@ setup(
     author="Sanghoon Lee (DSsoli)",
     author_email="solisoli3197@gmail.com",
     name="pyupbit-for-devs",
-    version="0.1.0",
+    version="0.1.1",
     description="Augmented pyupbit for Developers",
     long_description=README,
     long_description_content_type="text/markdown",
