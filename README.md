@@ -1,7 +1,5 @@
 ## Augmented pyupbit for Developers to enable better debugging experience
 
-[pyupbit-for-devs (PyPi link)](pypi.org/project/pyupbit-for-devs/)
-
 ## License
 
 ```xml
