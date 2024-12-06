@@ -15,13 +15,13 @@ pyupbit-for-devs package:
    limitations under the License.
 
 Modifications, Additions, and Deletions:
-    - Additions: trade_utils.py for Robust API/Function Calls
+    - Additions: trade_utils.py for Robust API/Function Calls with correct response assurance and retries
     - Deletions: pyupbit's custom error handlings
     - Modifications: functions in quotation_api.py, request_api.py, and exchange_api.py,
         in order to show raw and detailed response from Upbit API directly for debugging purposes.
 
 Base code for pyupbit-for-devs package (pyupbit):
-   Copyright 2021 Jonghun Yoo, Brayden Jo, pystock/pyquant (sharebook-kr). All Rights Reserved.
+   Copyright 2021 Jonghun Yoo, Brayden Jo, pystock/pyquant (sharebook-kr), (et al.). All Rights Reserved.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.

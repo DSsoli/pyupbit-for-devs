@@ -1,5 +1,5 @@
 """
-tradeutils.py, TradeUtils:
+TradeUtils: for Robust API/Function Calls with correct response assurance and retries
 
    Copyright 2024 Sanghoon Lee (DSsoli). All Rights Reserved.
 
